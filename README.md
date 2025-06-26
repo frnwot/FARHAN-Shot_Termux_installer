@@ -39,5 +39,5 @@ This installer script automates the setup process so you can quickly get started
 ### Method 1: Manual installation
 
 ```bash
-curl -sSf https://raw.githubusercontent.com/frnwot/FARHAN-Shot_Termux_installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/frnwot/FARHAN-Shot_Termux_installer/refs/heads/main/installer.sh | bash
 
